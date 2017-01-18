@@ -8,7 +8,7 @@ Tecnologias utilizadas:
    - View
    - Controller
 - Thymeleaf (HTML)
-- String Security
+- Spring Security
 - database MySQL
 - file script: import.sql
 
